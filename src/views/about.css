@@ -1,0 +1,248 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-text10 {
+  display: inline-block;
+  text-decoration: none;
+}
+.about-text11 {
+  display: inline-block;
+}
+.about-text12 {
+  display: inline-block;
+  text-decoration: none;
+}
+.about-text13 {
+  display: inline-block;
+  text-decoration: underline;
+}
+.about-text14 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text15 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text16 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text17 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text18 {
+  display: inline-block;
+}
+.about-text19 {
+  display: inline-block;
+}
+.about-text20 {
+  display: inline-block;
+}
+.about-text21 {
+  display: inline-block;
+}
+.about-text22 {
+  display: inline-block;
+}
+.about-text23 {
+  display: inline-block;
+}
+.about-text24 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text25 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text26 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text27 {
+  display: inline-block;
+}
+.about-text28 {
+  display: inline-block;
+}
+.about-text29 {
+  display: inline-block;
+}
+.about-text30 {
+  display: inline-block;
+}
+.about-text31 {
+  display: inline-block;
+}
+.about-text32 {
+  display: inline-block;
+}
+.about-text33 {
+  display: inline-block;
+}
+.about-text34 {
+  display: inline-block;
+}
+.about-text35 {
+  display: inline-block;
+}
+.about-text36 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text37 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text38 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text39 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text40 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text41 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text42 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text43 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text44 {
+  display: inline-block;
+}
+.about-text47 {
+  display: inline-block;
+}
+.about-text48 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text49 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text50 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text51 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text52 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text53 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text54 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text55 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text56 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text57 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text58 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text59 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text60 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text61 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text62 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text63 {
+  display: inline-block;
+  text-align: center;
+}
+.about-text64 {
+  display: inline-block;
+}
+.about-text65 {
+  display: inline-block;
+}
+.about-text66 {
+  display: inline-block;
+}
+.about-text67 {
+  display: inline-block;
+}
+.about-text68 {
+  display: inline-block;
+}
+.about-text69 {
+  display: inline-block;
+}
+.about-text70 {
+  display: inline-block;
+}
+.about-text71 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+}
+@media(max-width: 767px) {
+  .about-text28 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .about-text44 {
+    text-align: center;
+  }
+  .about-text47 {
+    text-align: center;
+  }
+}
